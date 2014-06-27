@@ -12,3 +12,4 @@ Gemfile.lock
 spec/testbeds
 /gemfiles/*.lock
 /.ruby-version
+*.swp
